@@ -61,11 +61,11 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 ## Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Traktorista-bug&show_icons=true&count_private=true&hide_border=true" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GeorgBankin06&show_icons=true&count_private=true&hide_border=true" align="left"/>
 
 </td><td valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traktorista-bug&hide_border=true&layout=compact" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgBankin06&hide_border=true&layout=compact" align="left"/>
 
 
 <br/>  
