@@ -22,7 +22,7 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on my skills.  
   
@@ -43,7 +43,7 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 </div>  
 
 
-</td></tr></table>  
+
 
 <br/>  
 
@@ -59,7 +59,7 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Traktorista-bug&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -67,7 +67,6 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traktorista-bug&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
 
 <br/>  
 
