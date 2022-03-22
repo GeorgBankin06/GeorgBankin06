@@ -84,5 +84,3 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
