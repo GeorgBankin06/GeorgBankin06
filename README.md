@@ -65,7 +65,7 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traktorista-bug&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traktorista-bug&hide_border=true&layout=compact" align="left"/>
 
 
 <br/>  
