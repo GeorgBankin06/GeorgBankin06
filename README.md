@@ -33,7 +33,7 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 - ❓ Ask me about anything.  
   
 
-- ⚡ Fun fact: When i was 6 years old drank grandad's rakija.  
+- ⚡ Fun fact: When I was 6 years old, I drank my grandad's rakija.  
 
 
 </td><td valign="top" width="50%">
