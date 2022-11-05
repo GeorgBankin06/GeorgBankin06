@@ -27,7 +27,7 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 - 🔭 I’m currently working on my skills.  
   
 
-- 🌱 I’m currently learning C#, React Native and Flutter.  
+- 🌱 I’m currently learning C# and Flutter.  
   
 
 - ❓ Ask me about anything.  
@@ -52,7 +52,6 @@ Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 </div>  
 
 <br/>  
