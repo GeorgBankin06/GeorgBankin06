@@ -38,9 +38,7 @@ Thank you for visiting my profile!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,py,gradle&perline=4" />
-     <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite&perline=3" />
-     <img src="https://skillicons.dev/icons?i=androidstudio,git,gcp,postman,vscode,visualstudio&perline=6" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,py,gradle,firebase,mysql,sqlite,androidstudio,git,gcp,postman,vscode,visualstudio&perline=4" />
   </a>
 </p>
 
