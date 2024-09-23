@@ -10,16 +10,10 @@
 <a href="https://instagram.com/https://www.instagram.com/georg_bankin/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
-
-
-
-
 
 <br/>  
+
+
 👋 About Me
 
 Greetings! I’m Georg Bankin, android developer with a passion for crafting elegant and intuitive mobile applications. Based in Burgas Bulgaria, I specialize in designing seamless user experiences that bring ideas to life on Android devices.
