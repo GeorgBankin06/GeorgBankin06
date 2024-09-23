@@ -5,8 +5,7 @@
 </div>
 
 
-👋 About Me
-
+### 👋 About Me
 Greetings! I’m Georg Bankin, android developer with a passion for crafting elegant and intuitive mobile applications. Based in Burgas Bulgaria, I specialize in designing seamless user experiences that bring ideas to life on Android devices.
 
 ### 🎓 My Background
