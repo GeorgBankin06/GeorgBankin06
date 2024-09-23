@@ -14,9 +14,10 @@
 
 
 
-### Glad to see you here!  
-Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.🤠  
-  
+
+
+
+
 
 <br/>  
 👋 About Me
@@ -38,7 +39,7 @@ I’m always eager to collaborate and engage with fellow developers and innovato
 - [Facebook]https://www.facebook.com/georg.bankin/
 - [X]https://x.com/Savvybankin
 
-###to discuss ideas, projects, or opportunities.
+to discuss ideas, projects, or opportunities.
 
 Thank you for visiting my profile!
 
