@@ -17,8 +17,6 @@ I believe technology connects people and ideas. I focus on productivity and crea
 ### ✨ Interests
 Outside of development, I enjoy tennis, 3D printing, business strategy, and men's elegance, which inspire creativity in my work.
 
-Thank you for visiting my profile!
-
 </td><td valign="top" width="50%">
 
 <div align="center">
@@ -38,7 +36,7 @@ Thank you for visiting my profile!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,py,gradle,firebase,mysql,sqlite,androidstudio,git,gcp,postman,vscode,visualstudio&perline=4" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,py,gradle,firebase,mysql,sqlite,androidstudio,git,gcp,postman,vscode,visualstudio&perline=16" />
   </a>
 </p>
 
@@ -56,30 +54,34 @@ Thank you for visiting my profile!
   
 </p>
 
-## Github Stats  
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=GeorgBankin06&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left"/>
-
-</td><td valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgBankin06&hide_border=true&layout=compact&theme=github_dark" align="left"/>
-
-
-<br/>  
-
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
-<br/>  
+<td width="50%" align="center">
 
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=Traktorista-bug&&style=flat-square" align="right" />
-</div>  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-<br/>  
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 
-
-<br />
-
+</p>        
+<!--- stats (end) -->
