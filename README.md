@@ -14,12 +14,11 @@
 
 
 
-### Glad to see you here!  
-Now I'm studying in PGEE"Konstantin Fotinov", Burgas. I love learning new stuff.🤠  
+
   
 
 <br/>  
-## 👋 About Me
+### 👋 About Me
 
 Greetings! I’m Georg Bankin, android developer with a passion for crafting elegant and intuitive mobile applications. Based in Burgas Bulgaria, I specialize in designing seamless user experiences that bring ideas to life on Android devices.
 
@@ -37,7 +36,8 @@ I’m always eager to collaborate and engage with fellow developers and innovato
 - [Instagram]https://www.instagram.com/georg_bankin
 - [Facebook]https://www.facebook.com/georg.bankin/
 - [X]https://x.com/Savvybankin
-to discuss ideas, projects, or opportunities.
+
+###to discuss ideas, projects, or opportunities.
 
 Thank you for visiting my profile!
 
