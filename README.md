@@ -17,7 +17,7 @@ I believe technology connects people and ideas. I focus on productivity and crea
 ### ✨ Interests
 Outside of development, I enjoy tennis, 3D printing, business strategy, and men's elegance, which inspire creativity in my work.
 
-### 📫 Let’s Connect
+### 📫 Contact Me
 Reach me: georgbankin7@gmail.com
 </td><td valign="top" width="50%">
 
