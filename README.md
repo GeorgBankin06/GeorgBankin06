@@ -15,7 +15,7 @@ I started my Android journey in 2023, inspired by a friend who introduced me to 
 I believe technology connects people and ideas. I focus on productivity and creating apps that are efficient, engaging, and leave users with a positive vibe.
 
 ### ✨ Interests
-Outside of development, I enjoy tennis, 3D printing, business strategy, and men's elegance, which inspire creativity in my work.
+Outside of development, I enjoy tennis, 3D printing and trading.
 
 ### 📫 Contact Me
 Reach me: georgbankin7@gmail.com
