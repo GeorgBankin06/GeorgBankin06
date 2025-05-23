@@ -9,7 +9,7 @@
 Hi! I’m Georg Bankin, an Android developer from Burgas, Bulgaria, passionate about creating elegant and intuitive mobile apps. I specialize in seamless user experiences on Android devices and also write the backend to ensure full-stack functionality.
 
 ### 🎓 Background
-I started my Android journey in 2023, inspired by a friend who introduced me to the world of app development. Since then, I’ve gained expertise in Kotlin, Java, and various frameworks to build robust, user-focused apps.
+I started my Android journey in 2023, inspired by a friend who introduced me to the world of mobile app development. Since then, I’ve gained expertise in Kotlin, Java, and various frameworks to build robust, user-focused apps.
 
 ### 🌍 Philosophy
 I believe technology connects people and ideas. I focus on productivity and creating apps that are efficient, engaging, and leave users with a positive vibe.
